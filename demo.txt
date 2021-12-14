@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CAA7-47CA
+
+ Directory of C:\Users\Laxmi\OneDrive\Desktop\New folder
+
+14-12-2021  05.10 PM    <DIR>          .
+14-12-2021  05.07 PM    <DIR>          ..
+14-12-2021  05.10 PM                 0 demo.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,552,331,776 bytes free
